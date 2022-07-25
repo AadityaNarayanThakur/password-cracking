@@ -1,0 +1,14 @@
+Enter your username: aditya
+Enter your password: aditya
+The salt password is:  b'$2b$12$9KFa5QssER8WPCGCbEmZzuVZ6GAAnw5XsO4HIyAKm/Guo8ULIoznG'
+check password: aditya
+login success
+Choose a option: 1
+Enter your username: aditya
+Enter your password: aaditya
+The salt password is:  b'$2b$12$uvYuPp6esvUlRSDR1gnrYO.laEpkqkQ8rzHh9dIrcnuOJGJ2oFEIS'
+check password: aditya
+Incorrect password
+Choose a option: 2
+Quitting the Program...
+PS C:\Users\aadit>
